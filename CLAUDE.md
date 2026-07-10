@@ -4,9 +4,11 @@ Case de estudo do padrão descrito em https://gist.github.com/karpathy/442a6bf55
 implementado **100% no GitHub, sem Obsidian**. A camada de navegação (que no gist é o Obsidian) é o
 **GitHub Wiki** nativo do repositório — renderizado com sidebar + busca no próprio github.com.
 
-**Tema do case:** ecossistema de LLMs/IA — modelos, labs, papers, benchmarks, pessoas, técnicas.
-Escolhido por ser rico em entidades interligadas, mudar rápido (testa detecção de claims obsoletas)
-e ter contradições reais entre fontes (testa detecção de contradições).
+**Tema do case:** **LLMs / Gen AI agents no contexto enterprise** — empresas e produtos de
+infraestrutura de agentes (memória, conhecimento, retrieval, orquestração), técnicas, pessoas,
+benchmarks e padrões de adoção corporativa. Escolhido por ser rico em entidades interligadas,
+mudar rápido (testa detecção de claims obsoletas) e ter contradições reais entre fontes
+(testa detecção de contradições).
 
 ## Arquitetura de dois repositórios
 
